@@ -117,6 +117,11 @@ section ul li:hover {
     border: 1px solid #443E54;
 }
 
+audio {
+    background: #2a2634c9;
+    margin: 10px;
+}
+
 /* animation */
 
 header div {
